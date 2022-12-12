@@ -10,7 +10,7 @@ export default function Inicio(){
             <ul className={styles.posts}>
                 {Posts.map((post) => (
                     <li key={post.id}>
-                        <Post post={post} />
+                        <Post poste={post} />
                         
                     </li>
                 ))}

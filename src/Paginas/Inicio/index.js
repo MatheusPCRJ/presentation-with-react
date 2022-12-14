@@ -1,7 +1,7 @@
 import styles from "./Inicio.module.css";
 
 import Posts from "json/posts.json";
-import Post from "Componentes/Post/Index";
+import Post from "Componentes/PostCard/Index";
 
 
 

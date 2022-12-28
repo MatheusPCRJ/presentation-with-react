@@ -1,7 +1,7 @@
 import styles from './SobreMim.module.css';
 import PostModelo from "Componentes/PostModelo/Index";
 import fotoCapa from "assets/sobre_mim_capa.png";
-import fotoSobreMim from 'assets/sobre_mim_foto.png'
+import fotoSobreMim from 'assets/fotoCorrendo2.jpeg'
 
 export default function SobreMim() {
     return (
@@ -19,27 +19,27 @@ export default function SobreMim() {
                 className={styles.fotoSobreMim}
             />
             <p className={styles.paragrafo}>
-                Oi, tudo bem? Eu sou instrutor de Front-end na Alura e estou feliz de te ver por aqui.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta. Suspendisse interdum consectetur libero id faucibus nisl tincidunt eget.
             </p>
 
             <p className={styles.paragrafo}>
-                Minha história com programação começou no Instituto Federal do Piauí (IFPI), quando fiz o ensino médio integrado ao curso de Informática. Eu aprendi lógica de programação e o básico de várias linguagens, como PHP, Python, Java, mas sem aprofundar muito em cada uma delas. Eu gostava muito de estudar programação, mas na época não fazia ideia de que trabalharia com isso hoje.
+            Eu feugiat pretium nibh ipsum consequat nisl. Suscipit adipiscing bibendum est ultricies integer quis auctor elit sed. Id velit ut tortor pretium viverra suspendisse. Tortor condimentum lacinia quis vel. Dolor magna eget est lorem ipsum dolor sit amet consectetur. Nulla at volutpat diam ut venenatis. Risus feugiat in ante metus dictum at tempor commodo ullamcorper. Fringilla urna porttitor rhoncus dolor purus non enim praesent. Id cursus metus aliquam eleifend mi in nulla. Varius morbi enim nunc faucibus a. Viverra accumsan in nisl nisi scelerisque eu ultrices. Faucibus et molestie ac feugiat sed lectus. In ornare quam viverra orci sagittis eu volutpat odio facilisis. Risus at ultrices mi tempus imperdiet nulla. Id interdum velit laoreet id donec ultrices. Integer feugiat scelerisque varius morbi enim. Tristique risus nec feugiat in fermentum posuere urna. Volutpat sed cras ornare arcu dui vivamus arcu. Turpis egestas pretium aenean pharetra magna ac placerat vestibulum lectus.
             </p>
 
             <p className={styles.paragrafo}>
-                No ensino superior, escolhi cursar Engenharia Elétrica na Universidade Federal do Piauí (UFPI). Lá eu consegui entrar no PET (Programa de Educação Tutorial), um grupo acadêmico que contribui de diversas formas para o curso. Lá eu tive a oportunidade de estudar desenvolvimento web para ser um dos mantenedores do site deles.
+            In hac habitasse platea dictumst vestibulum rhoncus est pellentesque. Gravida neque convallis a cras semper auctor. Nisl nisi scelerisque eu ultrices vitae auctor eu augue ut. Sed vulputate mi sit amet mauris commodo. Nullam non nisi est sit amet. Orci ac auctor augue mauris augue neque gravida in. Interdum consectetur libero id faucibus. Sapien faucibus et molestie ac feugiat sed. Amet dictum sit amet justo donec enim diam vulputate ut. Pellentesque massa placerat duis ultricies lacus sed turpis. Cras sed felis eget velit.
             </p>
 
             <p className={styles.paragrafo}>
-                Com isso tive minha experiência de dev mais próxima da realidade, com prazos de implementação para o site, e aprendi muito enquanto codificava.
+            Ut pharetra sit amet aliquam id diam. Cras sed felis eget velit aliquet sagittis id consectetur purus. Blandit aliquam etiam erat velit scelerisque in dictum. Tellus rutrum tellus pellentesque eu tincidunt tortor aliquam. Sit amet nisl suscipit adipiscing. Viverra vitae congue eu consequat ac felis donec. Magna fringilla urna porttitor rhoncus. Et malesuada fames ac turpis egestas integer eget aliquet. Malesuada fames ac turpis egestas. Ipsum consequat nisl vel pretium lectus quam id leo in. Suspendisse faucibus interdum posuere lorem ipsum dolor. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices gravida. Vivamus arcu felis bibendum ut tristique et egestas quis. Gravida quis blandit turpis cursus. Morbi leo urna molestie at. Malesuada proin libero nunc consequat interdum varius. At erat pellentesque adipiscing commodo.
             </p>
 
             <p className={styles.paragrafo}>
-                E foi enquanto eu estava no PET que decidi procurar um estágio em desenvolvimento web. Eu encontrei uma vaga na Alura para o Scuba Team e percebi que ela aliava duas paixões minhas: programação e educação. Para minha felicidade, fui escolhido para fazer parte do time.
+            Lorem donec massa sapien faucibus. Risus nec feugiat in fermentum. Nisl tincidunt eget nullam non. Neque gravida in fermentum et sollicitudin ac orci phasellus. Aliquet lectus proin nibh nisl condimentum id venenatis. Adipiscing at in tellus integer feugiat scelerisque. Eros in cursus turpis massa tincidunt dui. Volutpat sed cras ornare arcu dui. Vel quam elementum pulvinar etiam non quam. Vel pharetra vel turpis nunc eget lorem dolor sed. Nibh mauris cursus mattis molestie a iaculis at erat. Est ante in nibh mauris cursus mattis molestie a. Cursus vitae congue mauris rhoncus aenean vel elit scelerisque mauris.
             </p>
 
             <p className={styles.paragrafo}>
-                Desde então, tem sido aprenas aprendizados atrás de aprendizados. A Alura é uma escola não só para seus alunos e alunas, mas também para os colaboradores e colaboradoras. Hoje sou muito feliz de ter a oportunidade de trazer esses conteúdos ricos e encantadores para você. Espero que aprenda bastante!
+            Amet tellus cras adipiscing enim eu turpis. Et egestas quis ipsum suspendisse ultrices. Pellentesque diam volutpat commodo sed egestas egestas fringilla. Morbi tristique senectus et netus. In hendrerit gravida rutrum quisque non tellus orci ac auctor. Dolor sit amet consectetur adipiscing elit. Euismod quis viverra nibh cras pulvinar mattis nunc sed. Venenatis a condimentum vitae sapien pellentesque. Cras tincidunt lobortis feugiat vivamus. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus.
             </p>
 
         </PostModelo>

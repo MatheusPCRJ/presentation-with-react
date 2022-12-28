@@ -36,15 +36,14 @@ Criando o 'Olá Mundo' <br>
 
 <h2 id="andamento">Andamento do projeto 📈</h2>
 <div>
-  - Imcompleto <br>
-  Faltando alterar o conteúdo.
+  - Completo <img width="15px" height="15px" src="https://user-images.githubusercontent.com/112782424/209587639-618b9dc5-e9d7-4e0e-89f8-d1faaffe51f3.png" />
 </div>
 <br>
-<img width="15px" height="15px" src="https://user-images.githubusercontent.com/112782424/209587639-618b9dc5-e9d7-4e0e-89f8-d1faaffe51f3.png" />
+
 
 <h2 id="projeto">Projeto 📈</h2>
 <div align="Center">
-<img src="" />
+<img src="https://user-images.githubusercontent.com/112782424/209849811-2a4b71ba-2868-4af4-b402-544d5cd1adb4.png" />
 </div>
 <br>
 

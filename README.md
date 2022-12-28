@@ -15,13 +15,21 @@
 
 
 <h2 id="sobre">Sobre 🔎</h2>
-  
+  Criei um Portfólio no intuito de aprender mais sobre React. <br>
+  Utilizei a plataforma da Alura. <br>
+  Nome do curso: "React: desenvolvendo em React Router com JavaScript".
 
 
 
 <h4> O que é para ser feito? </h4>
-⇨  <br>
-⇨ 
+⇨ Um portfólio com React. <br>
+⇨ Utilizar um Json.
+<h5>Conteúdo do Curso:</h5>
+Criando o 'Olá Mundo' <br>
+ SPA com react-router-dom <br>
+ Rotas aninhadas <br>
+ Rotas dinâmicas <br>
+ Finalizando o projeto <br>
 
 <h2 id="extras">Requisitos Extras 🔎</h2>
 - Não contém.
